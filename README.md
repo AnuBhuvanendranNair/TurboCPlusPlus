@@ -1,15 +1,15 @@
-Turbo C++ Theme - AnuBit - Version: 1.0.2 - 10 2026
+TurboCPlusPlus - AnuBit - Version: 1.0.3 - 10 2026
 
 ---
 
-# Turbo C++ Theme for PhpStorm
+# TurboCPlusPlus for PhpStorm
 
-Retro Borland Turbo C++ look: blue editor with yellow text, light-gray menus and status bar,
-green selections, cyan tool windows. Built for the Islands UI (PhpStorm 2025.2+).
+Retro early-90s DOS IDE look: blue editor with yellow text, light-gray menus and status bar,
+green selections, cyan tool windows. Built for the Islands UI (PhpStorm 2026.2+).
 
 ## Screenshots
 
-![Turbo C++ theme in PhpStorm: blue editor, cyan project tree, gray toolbar and status bar](docs/screenshots/editor-overview.png)
+![TurboCPlusPlus theme in PhpStorm: blue editor, cyan project tree, gray toolbar and status bar](docs/screenshots/editor-overview.png)
 
 *Editor with shell script, project tree and status bar, using the Px437 IBM VGA 8x16 font.*
 
@@ -17,10 +17,11 @@ green selections, cyan tool windows. Built for the Islands UI (PhpStorm 2025.2+)
 
 | File | Purpose |
 |---|---|
-| `TurboCpp-Theme-1.0.2.jar` | Theme plugin (UI theme + editor color scheme + console colors) |
+| `TurboCPlusPlus-1.0.3.jar` | Theme plugin (UI theme + editor color scheme + console colors) |
 | `fonts/Px437_IBM_VGA_8x16.ttf` | IBM VGA pixel font |
 | `fonts/LICENSE.TXT` | Font license (CC BY-SA 4.0) |
 | `install.sh` | Installs the font for the current macOS user |
+| `LICENSE` | Theme license (MIT) |
 
 ## Installation
 
@@ -30,9 +31,9 @@ green selections, cyan tool windows. Built for the Islands UI (PhpStorm 2025.2+)
    ```
    Alternatively double-click `fonts/Px437_IBM_VGA_8x16.ttf` and choose *Install* in Font Book.
    Windows/Linux: install the `.ttf` with the system font manager.
-2. **Plugin:** PhpStorm → Settings → Plugins → ⚙ → *Install Plugin from Disk…* → `TurboCpp-Theme-1.0.2.jar`.
+2. **Plugin:** PhpStorm → Settings → Plugins → ⚙ → *Install Plugin from Disk…* → `TurboCPlusPlus-1.0.3.jar`.
 3. **Restart** PhpStorm.
-4. **Theme:** Settings → Appearance & Behavior → Appearance → Theme → *Turbo C++*.
+4. **Theme:** Settings → Appearance & Behavior → Appearance → Theme → *TurboCPlusPlus*.
 
 ## Font setup (optional)
 
@@ -49,8 +50,12 @@ missing glyphs (emoji, some arrows) fall back to another font.
 
 ## Uninstall
 
-- Plugin: Settings → Plugins → Installed → *Turbo C++ Theme* → Uninstall.
+- Plugin: Settings → Plugins → Installed → *TurboCPlusPlus* → Uninstall.
 - Font: `./install.sh --uninstall` (or remove it in Font Book).
+
+## License
+
+Theme plugin: MIT, see `LICENSE`. The bundled font has its own license (below).
 
 ## Credits
 
@@ -59,6 +64,7 @@ by VileR, licensed under CC BY-SA 4.0 (see `fonts/LICENSE.TXT`).
 
 ## Release notes
 
+- **1.0.3** – Renamed to TurboCPlusPlus. Plugin icon, MIT license, vendor name updated. Minimum IDE version raised to 2026.2 (tested).
 - **1.0.2** – Font setup instructions added to the plugin description.
 - **1.0.1** – Fix: theme not listed in the Islands UI.
 - **1.0.0** – Initial release: UI theme, editor color scheme, 16-colour console palette.

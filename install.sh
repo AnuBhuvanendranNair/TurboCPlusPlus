@@ -38,7 +38,7 @@ fi
 
 echo ""
 echo "Next steps:"
-echo "  1. PhpStorm: Settings > Plugins > gear icon > Install Plugin from Disk > TurboCpp-Theme-1.0.2.jar"
+echo "  1. PhpStorm: Settings > Plugins > gear icon > Install Plugin from Disk > TurboCPlusPlus-1.0.3.jar"
 echo "  2. Restart PhpStorm"
-echo "  3. Settings > Appearance > Theme > Turbo C++"
+echo "  3. Settings > Appearance > Theme > TurboCPlusPlus"
 echo "  4. Optional: Settings > Editor > Font > Px437 IBM VGA 8x16, size 16"
