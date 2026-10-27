@@ -1,4 +1,4 @@
-Turbo C++ Theme - Gingco Communication - Version: 1.0.2 - 10 2026
+Turbo C++ Theme - AnuBit - Version: 1.0.2 - 10 2026
 
 ---
 
@@ -59,4 +59,4 @@ by VileR, licensed under CC BY-SA 4.0 (see `fonts/LICENSE.TXT`).
 
 ---
 
-Autor: A. Nair · Intern
+Autor: Anu Bhuvanendran Nair
