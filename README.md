@@ -7,6 +7,12 @@ Turbo C++ Theme - AnuBit - Version: 1.0.2 - 10 2026
 Retro Borland Turbo C++ look: blue editor with yellow text, light-gray menus and status bar,
 green selections, cyan tool windows. Built for the Islands UI (PhpStorm 2025.2+).
 
+## Screenshots
+
+![Turbo C++ theme in PhpStorm: blue editor, cyan project tree, gray toolbar and status bar](docs/screenshots/editor-overview.png)
+
+*Editor with shell script, project tree and status bar, using the Px437 IBM VGA 8x16 font.*
+
 ## Contents
 
 | File | Purpose |
